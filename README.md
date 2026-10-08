@@ -1,7 +1,5 @@
 # Databases - MariaDB Labs
 
-Notes, SQL scripts and exercises for the Databases course (lab material by Adolfo Villafiorita).
-
 ## Tools
 
 - [MariaDB](https://mariadb.org/documentation/) - the DBMS (server + `mariadb` CLI client)
